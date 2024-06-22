@@ -8,7 +8,7 @@ export async function POST(req) {
     url: "https://api.edenai.run/v2/text/generation",
     headers: {
       authorization:
-        "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNjU3NjM3YzktNTBmZS00MmI3LWE2NzctNGVmZDJhNjE4MmUxIiwidHlwZSI6ImFwaV90b2tlbiJ9.-4p9Je4QJ5IJskX1WJKDL29NR85nSQsQrULHpj5DMHk",
+        "Bearer {APi key i have removed}",
     },
     data: {
       providers: "cohere",
